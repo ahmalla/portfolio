@@ -23,8 +23,8 @@ export default function Home() {
               <li><a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' href='#'>Resume</a></li>
             </ul>
           </nav>
-          <div>
-            <h2>Ahmad Mahmoud</h2>
+          <div className='text-center p-10'>
+            <h2 className='text-5xl py-2 text-teal-600 font-medium'>Ahmad Mahmoud</h2>
             <h3>Full-Stack Developer</h3>
             <p>Amiable and dedicated software engineer with a background in Team Management and leadership. A punctual, organized and enthusiastic team player that isn’t afraid of a challenge and can help lead a group to success. Persistence keeps me curious and passionate about continually pursuing a better tomorrow. </p>
           </div>
