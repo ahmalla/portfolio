@@ -12,6 +12,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
+        <section className=' bg-cyan-700 h-screen'>
+          <h1>Hello</h1>
+        </section>
       </main>
     </>
   )
