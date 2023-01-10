@@ -25,7 +25,7 @@ export default function Home() {
           </nav>
           <div className='text-center p-10'>
             <h2 className='text-5xl py-2 text-teal-600 font-medium'>Ahmad Mahmoud</h2>
-            <h3 className='text-2xl py-2'>Full-Stack Developer</h3>
+            <h3 className='text-2xl py-2'>full-Stack Developer</h3>
             <p className='text-md py-5 leading-8 text-gray-800'>Amiable and dedicated software engineer with a background in Team Management and leadership. A punctual, organized and enthusiastic team player that isn’t afraid of a challenge and can help lead a group to success. Persistence keeps me curious and passionate about continually pursuing a better tomorrow. </p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
@@ -33,14 +33,32 @@ export default function Home() {
             <a><AiFillLinkedin /></a>
           </div>
         </section>
-
-
         <section>
-          <div className='text-center shadow-lg p-10 rounded-xl my-10'>
+        <div className='text-center shadow-lg p-10 rounded-xl my-10'>
+          <div>
             <h3 className='text-3xl py-1'>Projects I have created</h3>
             <p className='text-md py-2 leading-8 text-gray-800'>Write something about development journey here.</p>
           </div>
+            <div>
+              <h3 className='text-3xl py-1'>Languages I am Familiar with</h3>
+              <p className='text-md py-5 leading-8 text-gray-800'> React, Express, MERN stack, Node.js</p>
+            </div>
+          </div>
+          <div className='text-center shadow-lg p-10 rounded-xl my-10'>
           <div>
+            <h3 className='text-3xl py-1'>Projects I have created</h3>
+            <p className='text-md py-2 leading-8 text-gray-800'>Write something about development journey here.</p>
+          </div>
+            <div>
+              <h3 className='text-3xl py-1'>Languages I am Familiar with</h3>
+              <p className='text-md py-5 leading-8 text-gray-800'> React, Express, MERN stack, Node.js</p>
+            </div>
+          </div>
+          <div className='text-center shadow-lg p-10 rounded-xl my-10'>
+          <div>
+            <h3 className='text-3xl py-1'>Projects I have created</h3>
+            <p className='text-md py-2 leading-8 text-gray-800'>Write something about development journey here.</p>
+          </div>
             <div>
               <h3 className='text-3xl py-1'>Languages I am Familiar with</h3>
               <p className='text-md py-5 leading-8 text-gray-800'> React, Express, MERN stack, Node.js</p>
