@@ -36,13 +36,14 @@ export default function Home() {
 
 
         <section>
-          <div>
+          <div className='text-center shadow-lg p-10 rounded-xl my-10'>
             <h3 className='text-3xl py-1'>Projects I have created</h3>
             <p className='text-md py-2 leading-8 text-gray-800'>Write something about development journey here.</p>
           </div>
           <div>
             <div>
-
+              <h3 className='text-3xl py-1'>Languages I am Familiar with</h3>
+              <p className='text-md py-5 leading-8 text-gray-800'> React, Express, MERN stack, Node.js</p>
             </div>
           </div>
         </section>
