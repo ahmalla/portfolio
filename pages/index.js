@@ -65,6 +65,11 @@ export default function Home() {
             </div>
           </div>
         </section>
+        <section>
+          <div>
+            <h3>a new section, may delete later</h3>
+          </div>
+        </section>
       </main>
     </>
   )
