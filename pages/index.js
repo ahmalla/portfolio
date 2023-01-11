@@ -67,7 +67,7 @@ export default function Home() {
         </section>
         <section>
           <div>
-            <h3>a new section, may delete later</h3>
+            <h3 className='text-3xl py-1'>a new section, may delete later</h3>
           </div>
         </section>
       </main>
