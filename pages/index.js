@@ -65,13 +65,13 @@ export default function Home() {
             </a>
           </div>
           <div className="flex align-items justify-center  dark:bg-gray-900">
-            <Image src={js} />
-            <Image src={react} />
-            <Image src={html} />
-            <Image src={node} />
-            <Image src={mongo} />
-            <Image src={python} />
-            <Image src={django} />
+            <Image src={js} alt="js"/>
+            <Image src={react} alt="react"/>
+            <Image src={html} alt="html"/>
+            <Image src={node} alt="node"/>
+            <Image src={mongo} alt="mongo"/>
+            <Image src={python} alt="python"/>
+            <Image src={django} alt="django"/>
           </div>
           </div>
         </section>
