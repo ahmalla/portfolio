@@ -41,11 +41,11 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-center p-10">
-            <h2 className="text-5xl py-2 text-teal-600 font-medium md:text-6xl">
+            <h2 className="text-5xl py-2 text-teal-600 font-burtons font-medium md:text-6xl">
               Ahmad Mahmoud
             </h2>
-            <h3 className="text-2xl py-2 md:text-3xl dark:text-gray-200">Full-Stack Developer</h3>
-            <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto  dark:text-gray-200">
+            <h3 className="text-2xl py-2 font-burtons md:text-3xl dark:text-gray-200">Full-Stack Developer</h3>
+            <p className="text-md py-5 font-burtons leading-8 text-gray-800 md:text-xl max-w-xl mx-auto  dark:text-gray-200">
               Amiable and dedicated software engineer with a background in Team
               Management and leadership. A punctual, organized and enthusiastic
               team player that isn’t afraid of a challenge and can help lead a
@@ -78,14 +78,14 @@ export default function Home() {
         <section>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"} rel="noreferrer">Memory Game</a></h2>
-              <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
+              <h2 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"} rel="noreferrer">Memory Game</a></h2>
+              <p className="text-md py-2 font-burtons leading-8 text-gray-800  dark:text-gray-200">
                 This game was my very first coding project. I have left it in its raw state to demonstrate where my coding journey began. By clicking the title you can view the game itself and even play if you want to!
               </p>
             </div>
             <div>
-              <h3 className="text-2xl py-1  dark:text-gray-200">Languages used in this project</h3>
-              <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto  dark:text-gray-200">
+              <h3 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages used in this project</h3>
+              <p className="text-md py-5 font-burtons leading-8 text-gray-800 md:text-xl max-w-xl mx-auto  dark:text-gray-200">
                 {" "}
                 JavaScript, HTML 5, CSS 3
               </p>
@@ -93,14 +93,14 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noreferrer">Finch Collector</a></h2>
-              <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
+              <h2 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noreferrer">Finch Collector</a></h2>
+              <p className="text-md py-2 font-burtons leading-8 text-gray-800  dark:text-gray-200">
                 The Finch Collector was my third project in my coding journey and my first project using Django and Python. This application shows my understanding od the Django Framework as well as my knowledge with the Python language itself
               </p>
             </div>
             <div>
-              <h3 className="text-3xl py-1  dark:text-gray-200">Languages I used in the Finch Collector</h3>
-              <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
+              <h3 className="text-3xl font-burtons py-1  dark:text-gray-200">Languages I used in the Finch Collector</h3>
+              <p className="text-md font-burtons py-5 leading-8 text-gray-800  dark:text-gray-200">
                 {" "}
                 Django, Python, Materialize 
               </p>
@@ -108,14 +108,14 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://gentle-brushlands-78744.herokuapp.com/" target={"_blank"} rel="noreferrer">Chore Tracker</a></h2>
-              <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
+              <h2 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://gentle-brushlands-78744.herokuapp.com/" target={"_blank"} rel="noreferrer">Chore Tracker</a></h2>
+              <p className="text-md font-burtons py-2 leading-8 text-gray-800  dark:text-gray-200">
                 The Chore Tracker was my final project in my coding journey and my first Team project using Django and Python. This was my first time working in a team with the git workflow. It was also my first experience as a scrum leader.
               </p>
             </div>
             <div>
-              <h3 className="text-3xl py-1  dark:text-gray-200">Languages I used in the Chore Tracker</h3>
-              <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
+              <h3 className="text-3xl font-burtons py-1  dark:text-gray-200">Languages I used in the Chore Tracker</h3>
+              <p className="text-md font-burtons py-5 leading-8 text-gray-800  dark:text-gray-200">
                 {" "}
                 Django, Python, Materialize 
               </p>
