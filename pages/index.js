@@ -91,13 +91,13 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h3 className="text-3xl py-1">Projects I have created</h3>
+              <h3 className="text-3xl underline-offset-8 py-1 text-blue-400">Project 2</h3>
               <p className="text-md py-2 leading-8 text-gray-800">
                 Write something about development journey here.
               </p>
             </div>
             <div>
-              <h3 className="text-3xl py-1">Languages I am Familiar with</h3>
+              <h3 className="text-3xl py-1">Languages used in project 2</h3>
               <p className="text-md py-5 leading-8 text-gray-800">
                 {" "}
                 React, Express, MERN stack, Node.js
@@ -106,23 +106,18 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h3 className="text-3xl py-1">Projects I have created</h3>
+              <h3 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"}>Finch Collector</a></h3>
               <p className="text-md py-2 leading-8 text-gray-800">
-                Write something about development journey here.
+                The Finch Collector was my third project in my coding journey and my first project using Django and Python. This application shows my understanding od the Django Framework as well as my knowledge with the Python language itself
               </p>
             </div>
             <div>
-              <h3 className="text-3xl py-1">Languages I am Familiar with</h3>
+              <h3 className="text-3xl py-1">Languages I used in the Finch Collector</h3>
               <p className="text-md py-5 leading-8 text-gray-800">
                 {" "}
-                React, Express, MERN stack, Node.js
+                Django, Python, Materialize 
               </p>
             </div>
-          </div>
-        </section>
-        <section>
-          <div>
-            <h3 className="text-3xl py-1">a new section, may delete later</h3>
           </div>
         </section>
       </main>
