@@ -30,7 +30,7 @@ export default function Home() {
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
             <a href='https://github.com/ahmalla' target={'_blank'}><AiFillGithub /></a>
-            <a href='https://www.linkedin.com/in/ahmad-mahmoud-dev/'><AiFillLinkedin /></a>
+            <a href='https://www.linkedin.com/in/ahmad-mahmoud-dev/' target={'_blank'}><AiFillLinkedin /></a>
           </div>
           </section>
         <section>
