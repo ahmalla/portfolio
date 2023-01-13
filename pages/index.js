@@ -54,12 +54,12 @@ export default function Home() {
             </p>
           
           <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600  dark:text-gray-200">
-            <a href="https://github.com/ahmalla" target={"_blank"}>
+            <a href="https://github.com/ahmalla" target={"_blank"} rel="noopener noreferrer">
               <AiFillGithub />
             </a>
             <a
               href="https://www.linkedin.com/in/ahmad-mahmoud-dev/"
-              target={"_blank"}
+              target={"_blank"} rel="noopener noreferrer"
             >
               <AiFillLinkedin />
             </a>
@@ -78,7 +78,7 @@ export default function Home() {
         <section>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"}>Memory Game</a></h2>
+              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"} rel="noopener noreferrer">Memory Game</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 This game was my very first coding project. I have left it in its raw state to demonstrate where my coding journey began. By clicking the title you can view the game itself and even play if you want to!
               </p>
@@ -93,7 +93,7 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"}>Finch Collector</a></h2>
+              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noopener noreferrer">Finch Collector</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 The Finch Collector was my third project in my coding journey and my first project using Django and Python. This application shows my understanding od the Django Framework as well as my knowledge with the Python language itself
               </p>
@@ -108,7 +108,7 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://gentle-brushlands-78744.herokuapp.com/" target={"_blank"}>Chore Tracker</a></h2>
+              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://gentle-brushlands-78744.herokuapp.com/" target={"_blank"} rel="noopener noreferrer">Chore Tracker</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 The Chore Tracker was my final project in my coding journey and my first Team project using Django and Python. This was my first time working in a team with the git workflow. It was also my first experience as a scrum leader.
               </p>
