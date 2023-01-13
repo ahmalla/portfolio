@@ -76,16 +76,16 @@ export default function Home() {
         <section>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h3 className="text-3xl py-1">Projects I have created</h3>
+              <h3 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"}>Memory Game</a></h3>
               <p className="text-md py-2 leading-8 text-gray-800">
-                Write something about development journey here.
+                This game was my very first coding project. I have left it in its raw state to demonstrate where my coding journey began. By clicking the title you can view the game itself and even play if you want to!
               </p>
             </div>
             <div>
-              <h3 className="text-3xl py-1">Languages I am Familiar with</h3>
-              <p className="text-md py-5 leading-8 text-gray-800">
+              <h3 className="text-2xl py-1">Languages used in this project</h3>
+              <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto">
                 {" "}
-                React, Express, MERN stack, Node.js
+                JavaScript, HTML 5, CSS 3
               </p>
             </div>
           </div>
