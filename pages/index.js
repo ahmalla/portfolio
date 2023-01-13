@@ -29,7 +29,7 @@ export default function Home() {
             <p className='text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto'>Amiable and dedicated software engineer with a background in Team Management and leadership. A punctual, organized and enthusiastic team player that isn’t afraid of a challenge and can help lead a group to success. Persistence keeps me curious and passionate about continually pursuing a better tomorrow. </p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
-            <a href='https://github.com/ahmalla'><AiFillGithub /></a>
+            <a href='https://github.com/ahmalla' target={'_blank'}><AiFillGithub /></a>
             <a href='https://www.linkedin.com/in/ahmad-mahmoud-dev/'><AiFillLinkedin /></a>
           </div>
           </section>
