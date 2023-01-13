@@ -78,7 +78,7 @@ export default function Home() {
         <section>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h3 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"}>Memory Game</a></h3>
+              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"}>Memory Game</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 This game was my very first coding project. I have left it in its raw state to demonstrate where my coding journey began. By clicking the title you can view the game itself and even play if you want to!
               </p>
@@ -93,7 +93,7 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h3 className="text-3xl underline-offset-8 py-1 text-blue-400">Project 2</h3>
+              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400">Project 2</h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 Write something about development journey here.
               </p>
@@ -108,7 +108,7 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h3 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"}>Finch Collector</a></h3>
+              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"}>Finch Collector</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 The Finch Collector was my third project in my coding journey and my first project using Django and Python. This application shows my understanding od the Django Framework as well as my knowledge with the Python language itself
               </p>
