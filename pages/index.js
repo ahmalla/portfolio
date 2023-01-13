@@ -33,7 +33,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
-                  href="https://docs.google.com/document/d/e/2PACX-1vS34KEtNsUtIIRhX8_74s8--A4XwVRT4C1QnCAzKaQ--sN_Vg1X2FQNWCl3DSetk4SOFHCEqHfdbEVr/pub" target={"_blank"}
+                  href="https://docs.google.com/document/d/e/2PACX-1vS34KEtNsUtIIRhX8_74s8--A4XwVRT4C1QnCAzKaQ--sN_Vg1X2FQNWCl3DSetk4SOFHCEqHfdbEVr/pub" target={"_blank"} rel="noreferrer"
                 >
                   Resume
                 </a>
@@ -54,12 +54,12 @@ export default function Home() {
             </p>
           
           <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600  dark:text-gray-200">
-            <a href="https://github.com/ahmalla" target={"_blank"} rel="noopener noreferrer">
+            <a href="https://github.com/ahmalla" target={"_blank"} rel="noreferrer">
               <AiFillGithub />
             </a>
             <a
               href="https://www.linkedin.com/in/ahmad-mahmoud-dev/"
-              target={"_blank"} rel="noopener noreferrer"
+              target={"_blank"} rel="noreferrer"
             >
               <AiFillLinkedin />
             </a>
@@ -78,7 +78,7 @@ export default function Home() {
         <section>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"} rel="noopener noreferrer">Memory Game</a></h2>
+              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"} rel="noreferrer">Memory Game</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 This game was my very first coding project. I have left it in its raw state to demonstrate where my coding journey began. By clicking the title you can view the game itself and even play if you want to!
               </p>
@@ -93,7 +93,7 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noopener noreferrer">Finch Collector</a></h2>
+              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noreferrer">Finch Collector</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 The Finch Collector was my third project in my coding journey and my first project using Django and Python. This application shows my understanding od the Django Framework as well as my knowledge with the Python language itself
               </p>
@@ -108,7 +108,7 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://gentle-brushlands-78744.herokuapp.com/" target={"_blank"} rel="noopener noreferrer">Chore Tracker</a></h2>
+              <h2 className="text-3xl underline-offset-8 py-1 text-blue-400"><a href="https://gentle-brushlands-78744.herokuapp.com/" target={"_blank"} rel="noreferrer">Chore Tracker</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 The Chore Tracker was my final project in my coding journey and my first Team project using Django and Python. This was my first time working in a team with the git workflow. It was also my first experience as a scrum leader.
               </p>
