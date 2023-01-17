@@ -76,7 +76,7 @@ export default function Home() {
             <div>
               <h2 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"} rel="noreferrer">Memory Game</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
-                This game was my very first coding project. I have left it in its raw state to demonstrate where my coding journey began. By clicking the title you can view the game itself and even play if you want to!
+              This game marked the starting point of my coding journey, and I am proud to present it in its raw and unrefined state as a testament to my progression as a developer. As my first ever coding project, it holds a special place in my journey and serves as a reminder of how far I have come. By clicking on the title, you will have the opportunity to not only view the game, but also play it and experience first hand the primitive yet promising beginnings of my coding journey. It is a humbling and nostalgic experience to look back at my first steps in the world of coding and I hope you will find it interesting to see where it all began.
               </p>
             </div>
             <div>
@@ -91,7 +91,7 @@ export default function Home() {
             <div>
               <h2 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noreferrer">Finch Collector</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
-                The Finch Collector was my third project in my coding journey and my first project using Django and Python. This application shows my understanding od the Django Framework as well as my knowledge with the Python language itself
+              The Finch Collector was a significant milestone in my coding journey as it marked my third project and my introduction to the powerful Django Framework, which is built using the versatile Python programming language. Developing this application allowed me to gain a deeper understanding of the intricacies of the Django Framework, and demonstrated my proficiency in utilizing the full potential of the Python language. This project was not only a learning experience, but also a showcase of my abilities to implement and utilize these tools to create a functional and user-friendly application.
               </p>
             </div>
             <div>
