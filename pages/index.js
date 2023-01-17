@@ -46,11 +46,7 @@ export default function Home() {
             </h2>
             <h3 className="text-2xl py-2 font-burtons md:text-3xl dark:text-gray-200">Full-Stack Developer</h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto  dark:text-gray-200">
-              Amiable and dedicated software engineer with a background in Team
-              Management and leadership. A punctual, organized and enthusiastic
-              team player that isn’t afraid of a challenge and can help lead a
-              group to success. Persistence keeps me curious and passionate
-              about continually pursuing a better tomorrow.{" "}
+            As a highly motivated and dedicated software engineer with a background in team management and leadership, I possess a unique combination of strong leadership skills and a results-driven mindset. Although new to the tech industry, I am eager to embark on my journey and bring my skills and experience to a team. I am punctual, organized, and an enthusiastic team player who thrives in challenging environments, and I am not afraid of a challenge. My persistent and curious nature drives me to continuously learn and grow in the field, making me passionate about shaping a better future for the company I am joining. I am excited to contribute to success, gain valuable experience and continuously strive for improvement.{" "}
             </p>
           
           <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600  dark:text-gray-200">
