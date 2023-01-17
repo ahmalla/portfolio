@@ -72,6 +72,7 @@ export default function Home() {
           </div>
         </section>
         <section>
+          <h3 className="text-center text-2xl py-2 font-burtons md:text-3xl dark:text-gray-200">Most Recent Work</h3>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
               <h2 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"} rel="noreferrer">Memory Game</a></h2>
