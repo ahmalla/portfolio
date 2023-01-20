@@ -107,7 +107,7 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h2 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://gentle-brushlands-78744.herokuapp.com/" target={"_blank"} rel="noreferrer">Chore Tracker</a></h2>
+              <h2 className="text-2xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://gentle-brushlands-78744.herokuapp.com/" target={"_blank"} rel="noreferrer">Chore Tracker</a></h2>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
                 The Chore Tracker was my final project in my coding journey and my first Team project using Django and Python. This was my first time working in a team with the git workflow. It was also my first experience as a scrum leader.
               </p>
