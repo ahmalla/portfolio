@@ -25,7 +25,9 @@ export default function Home() {
       <main className="bg-white px-10 md:px-20 lg:px-40 dark:bg-gray-900">
         <section className="min-h-screen">
           <nav className="py-10 mb-12 flex justify-between">
-            <h1 className="text-xl font-burtons dark:text-gray-200">Developed By Ahmad</h1>
+            <div>
+              <h1 onClick={() => window.location.replace("/#projects")} className="text-xl cursor-pointer font-burtons dark:text-gray-200">Developed By Ahmad</h1>
+            </div>
             <ul className="flex items-center">
               <li>
                 <BsFillMoonStarsFill onClick={() => setDarkMode(!darkMode)} className="cursor-pointer text-xl" />
@@ -72,7 +74,7 @@ export default function Home() {
           </div>
         </section>
         <section>
-          <h3 className="text-center text-2xl py-2 font-burtons md:text-3xl dark:text-gray-200">Most Recent Work</h3>
+          <h3 id="projects" className="text-center text-2xl py-2 font-burtons md:text-3xl dark:text-gray-200">Most Recent Work</h3>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
               <h2 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"} rel="noreferrer">Memory Game</a></h2>
