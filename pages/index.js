@@ -125,7 +125,7 @@ export default function Home() {
               <h3 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages I used in the Workout App Power Hour</h3>
               <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
                 {" "}
-                MongoDB, Express, React, Node.js
+                MongoDB, Express, React, Node.js, CSS 3
               </p>
             </div>
           </div>
