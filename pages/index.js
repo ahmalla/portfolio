@@ -113,7 +113,7 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h3 className="text-2xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://workout-app-ldhk-9hghl2qif-ahmalla.vercel.app/" target={"_blank"} rel="noreferrer">Power Hour</a></h3>
+              <h3 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://workout-app-ldhk-9hghl2qif-ahmalla.vercel.app/" target={"_blank"} rel="noreferrer">Power Hour</a></h3>
               <a className=" text-2xl text-center flex justify-center" href="https://github.com/ahmalla/workout-app" target={"_blank"} rel="noreferrer">
               <AiFillGithub />
             </a>
