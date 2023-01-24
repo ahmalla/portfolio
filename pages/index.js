@@ -104,7 +104,7 @@ export default function Home() {
               </p>
             </div>
             <div>
-              <h2 className="text-3xl font-burtons py-1  dark:text-gray-200">Languages I used in the Finch Collector</h2>
+              <h2 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages I used in the Finch Collector</h2>
               <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
                 {" "}
                 Django, Python, Materialize 
@@ -122,7 +122,7 @@ export default function Home() {
               </p>
             </div>
             <div>
-              <h3 className="text-3xl font-burtons py-1  dark:text-gray-200">Languages I used in the Workout App Power Hour</h3>
+              <h3 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages I used in the Workout App Power Hour</h3>
               <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
                 {" "}
                 MongoDB, Express, React, Node.js
