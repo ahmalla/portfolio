@@ -113,16 +113,19 @@ export default function Home() {
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h3 className="text-2xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://gentle-brushlands-78744.herokuapp.com/" target={"_blank"} rel="noreferrer">Chore Tracker</a></h3>
+              <h3 className="text-2xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://workout-app-ldhk-9hghl2qif-ahmalla.vercel.app/" target={"_blank"} rel="noreferrer">Power Hour</a></h3>
+              <a className=" text-2xl text-center flex justify-center" href="https://github.com/ahmalla/workout-app" target={"_blank"} rel="noreferrer">
+              <AiFillGithub />
+            </a>
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
-                The Chore Tracker was my final project in my coding journey and my first Team project using Django and Python. This was my first time working in a team with the git workflow. It was also my first experience as a scrum leader.
+              The Power Hour Workout App was my inaugural full-stack development project, utilizing the MERN stack. While it presented a challenge, it was a highly valuable experience in my programming journey. Having a comprehensive understanding of both front-end and back-end components will undoubtedly be an asset in my future development projects.
               </p>
             </div>
             <div>
-              <h3 className="text-3xl font-burtons py-1  dark:text-gray-200">Languages I used in the Chore Tracker</h3>
+              <h3 className="text-3xl font-burtons py-1  dark:text-gray-200">Languages I used in the Workout App Power Hour</h3>
               <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
                 {" "}
-                Django, Python, Materialize 
+                MongoDB, Express, React, Node.js
               </p>
             </div>
           </div>
