@@ -9,6 +9,7 @@ import html from "../public/html.png";
 import mongo from "../public/mongo.png";
 import node from "../public/node.png";
 import python from "../public/python.png";
+import css from "../public/css.png"
 import { useState } from "react";
 
 
@@ -66,6 +67,7 @@ export default function Home() {
             <Image src={js} alt="js"/>
             <Image src={react} alt="react"/>
             <Image src={html} alt="html"/>
+            <Image src={css} alt="css"/>
             <Image src={node} alt="node"/>
             <Image src={mongo} alt="mongo"/>
             <Image src={python} alt="python"/>
