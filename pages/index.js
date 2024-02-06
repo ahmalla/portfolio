@@ -52,7 +52,7 @@ export default function Home() {
             As a highly motivated and dedicated software engineer with a background in team management and leadership, I possess a unique combination of strong leadership skills and a results-driven mindset. I am eager to embark on my journey and bring my skills and experience to a team. I am punctual, organized, and an enthusiastic team player who thrives in challenging environments, and I am not afraid of a challenge. My persistent and curious nature drives me to continuously learn and grow in the field, making me passionate about shaping a better future for the company I am joining. I am excited to contribute to success, gain valuable experience and continuously strive for improvement.{" "}
             </p>
           
-          <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600  dark:text-gray-200">
+            <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600  dark:text-gray-200">
             <a href="https://github.com/ahmalla" target={"_blank"} rel="noreferrer">
               <AiFillGithub />
             </a>
@@ -77,6 +77,24 @@ export default function Home() {
         </section>
         <section>
           <h3 id="projects" className="text-center text-2xl py-2 font-burtons md:text-3xl dark:text-gray-200">Most Recent Work</h3>
+          <div className="text-center shadow-lg p-10 rounded-xl my-10">
+            <div>
+              <h3 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noreferrer">Finch Collector</a></h3>
+              <a className=" text-2xl text-center flex justify-center" href="https://github.com/ahmalla/finch-collector" target={"_blank"} rel="noreferrer">
+              <AiFillGithub />
+            </a>
+              <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
+              The Finch Collector was a significant milestone in my coding journey as it marked my third project and my introduction to the powerful Django Framework, which is built using the versatile Python programming language. Developing this application allowed me to gain a deeper understanding of the intricacies of the Django Framework, and demonstrated my proficiency in utilizing the full potential of the Python language. This project was not only a learning experience, but also a showcase of my abilities to implement and utilize these tools to create a functional and user-friendly application.
+              </p>
+            </div>
+            <div>
+              <h2 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages I used in the Finch Collector</h2>
+              <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
+                {" "}
+                Django, Python, Materialize 
+              </p>
+            </div>
+          </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
               <h3 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://workout-app-ldhk-9hghl2qif-ahmalla.vercel.app/" target={"_blank"} rel="noreferrer">Power Hour</a></h3>
@@ -104,32 +122,14 @@ export default function Home() {
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
               This game marked the starting point of my coding journey, and I am proud to present it in its raw and unrefined state as a testament to my progression as a developer. As my first ever coding project, it holds a special place in my journey and serves as a reminder of how far I have come. By clicking on the title, you will have the opportunity to not only view the game, but also play it and experience first hand the primitive yet promising beginnings of my coding journey. It is a humbling and nostalgic experience to look back at my first steps in the world of coding and I hope you will find it interesting to see where it all began.
               </p>
-              <div>
+            </div>
+            <div>
               <h2 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages used in this project</h2>
               <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto  dark:text-gray-200">
                 {" "}
                 JavaScript, HTML 5, CSS 3
               </p>
             </div>
-            </div>
-            <div className="text-center shadow-lg p-10 rounded-xl my-10">
-            <div>
-              <h3 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noreferrer">Finch Collector</a></h3>
-              <a className=" text-2xl text-center flex justify-center" href="https://github.com/ahmalla/finch-collector" target={"_blank"} rel="noreferrer">
-              <AiFillGithub />
-            </a>
-              <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
-              The Finch Collector was a significant milestone in my coding journey as it marked my third project and my introduction to the powerful Django Framework, which is built using the versatile Python programming language. Developing this application allowed me to gain a deeper understanding of the intricacies of the Django Framework, and demonstrated my proficiency in utilizing the full potential of the Python language. This project was not only a learning experience, but also a showcase of my abilities to implement and utilize these tools to create a functional and user-friendly application.
-              </p>
-            </div>
-            <div>
-              <h2 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages I used in the Finch Collector</h2>
-              <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
-                {" "}
-                Django, Python, Materialize 
-              </p>
-            </div>
-          </div>
           </div>
         </section>
       </main>
