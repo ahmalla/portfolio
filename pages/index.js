@@ -79,24 +79,6 @@ export default function Home() {
           <h3 id="projects" className="text-center text-2xl py-2 font-burtons md:text-3xl dark:text-gray-200">Most Recent Work</h3>
           <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
-              <h3 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noreferrer">Finch Collector</a></h3>
-              <a className=" text-2xl text-center flex justify-center" href="https://github.com/ahmalla/finch-collector" target={"_blank"} rel="noreferrer">
-              <AiFillGithub />
-            </a>
-              <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
-              The Finch Collector was a significant milestone in my coding journey as it marked my third project and my introduction to the powerful Django Framework, which is built using the versatile Python programming language. Developing this application allowed me to gain a deeper understanding of the intricacies of the Django Framework, and demonstrated my proficiency in utilizing the full potential of the Python language. This project was not only a learning experience, but also a showcase of my abilities to implement and utilize these tools to create a functional and user-friendly application.
-              </p>
-            </div>
-            <div>
-              <h2 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages I used in the Finch Collector</h2>
-              <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
-                {" "}
-                Django, Python, Materialize 
-              </p>
-            </div>
-          </div>
-          <div className="text-center shadow-lg p-10 rounded-xl my-10">
-            <div>
               <h3 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://workout-app-ldhk-9hghl2qif-ahmalla.vercel.app/" target={"_blank"} rel="noreferrer">Power Hour</a></h3>
               <a className=" text-2xl text-center flex justify-center" href="https://github.com/ahmalla/workout-app" target={"_blank"} rel="noreferrer">
               <AiFillGithub />
@@ -113,6 +95,24 @@ export default function Home() {
               </p>
             </div>
             </div>
+            <div className="text-center shadow-lg p-10 rounded-xl my-10">
+            <div>
+              <h3 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noreferrer">Finch Collector</a></h3>
+              <a className=" text-2xl text-center flex justify-center" href="https://github.com/ahmalla/finch-collector" target={"_blank"} rel="noreferrer">
+              <AiFillGithub />
+            </a>
+              <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
+              The Finch Collector was a significant milestone in my coding journey as it marked my third project and my introduction to the powerful Django Framework, which is built using the versatile Python programming language. Developing this application allowed me to gain a deeper understanding of the intricacies of the Django Framework, and demonstrated my proficiency in utilizing the full potential of the Python language. This project was not only a learning experience, but also a showcase of my abilities to implement and utilize these tools to create a functional and user-friendly application.
+              </p>
+            </div>
+            <div>
+              <h2 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages I used in the Finch Collector</h2>
+              <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-200">
+                {" "}
+                Django, Python, Materialize 
+              </p>
+            </div>
+          </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
               <h2 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://ahmalla.github.io/Memory-Game/" target={"_blank"} rel="noreferrer">Memory Game</a></h2>
