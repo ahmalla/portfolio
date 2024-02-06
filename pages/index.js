@@ -104,6 +104,13 @@ export default function Home() {
               <p className="text-md py-2 leading-8 text-gray-800  dark:text-gray-200">
               This game marked the starting point of my coding journey, and I am proud to present it in its raw and unrefined state as a testament to my progression as a developer. As my first ever coding project, it holds a special place in my journey and serves as a reminder of how far I have come. By clicking on the title, you will have the opportunity to not only view the game, but also play it and experience first hand the primitive yet promising beginnings of my coding journey. It is a humbling and nostalgic experience to look back at my first steps in the world of coding and I hope you will find it interesting to see where it all began.
               </p>
+              <div>
+              <h2 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages used in this project</h2>
+              <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto  dark:text-gray-200">
+                {" "}
+                JavaScript, HTML 5, CSS 3
+              </p>
+            </div>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
@@ -123,13 +130,6 @@ export default function Home() {
               </p>
             </div>
           </div>
-            <div>
-              <h2 className="text-2xl font-burtons py-1  dark:text-gray-200">Languages used in this project</h2>
-              <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto  dark:text-gray-200">
-                {" "}
-                JavaScript, HTML 5, CSS 3
-              </p>
-            </div>
           </div>
         </section>
       </main>
