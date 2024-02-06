@@ -112,6 +112,7 @@ export default function Home() {
               </p>
             </div>
             </div>
+            </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10">
             <div>
               <h3 className="text-3xl font-burtons underline-offset-8 py-1 text-blue-400"><a href="https://young-shore-22684.herokuapp.com/" target={"_blank"} rel="noreferrer">Finch Collector</a></h3>
